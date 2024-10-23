@@ -22,8 +22,6 @@ public class FinalDoorController : DoorController
         {
             winUIPanel.SetActive(true);
         }
-
-        Debug.Log("Игра завершена!");
     }
 
     // Кнопка для перезапуска уровня

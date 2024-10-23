@@ -20,9 +20,9 @@ public class DoorController : MonoBehaviour, IInteractable
         {
             if (requiresKey && !InventoryManager.Instance.HasKey)
             {
-                return "Нужен ключ!";
+                return "Need key!";
             }
-            return isOpen ? "Закрыть дверь" : "Открыть дверь";
+            return isOpen ? "Close door" : "Open door";
         }
     }
 
@@ -42,7 +42,6 @@ public class DoorController : MonoBehaviour, IInteractable
         // Если требуется ключ и ключа нет, дверь не открывается
         if (requiresKey && !InventoryManager.Instance.HasKey)
         {
-            Debug.Log("Нужен ключ для открытия двери.");
             return;
         }
 
