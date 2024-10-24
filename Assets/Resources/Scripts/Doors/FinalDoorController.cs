@@ -22,18 +22,5 @@ public class FinalDoorController : DoorController
         {
             winUIPanel.SetActive(true);
         }
-    }
-
-    // Кнопка для перезапуска уровня
-    public void RestartLevel()
-    {
-        Time.timeScale = 1f; // Возвращаем время
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex); // Перезагружаем текущую сцену
-    }
-
-    // Кнопка для выхода из игры
-    public void ExitGame()
-    {
-        Application.Quit();
-    }
+    }   
 }

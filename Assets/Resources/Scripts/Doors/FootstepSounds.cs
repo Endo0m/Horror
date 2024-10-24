@@ -15,6 +15,12 @@ public class FootstepSounds : MonoBehaviour
 
     private void HandleFootsteps()
     {
+        // ѕровер€ем, что врем€ не заморожено
+        if (Time.timeScale == 0f)
+        {
+            return; // ѕрерываем выполнение, если врем€ остановлено
+        }
+
         // ѕровер€ем, нажаты ли клавиши движени€
         if (IsMoving())
         {

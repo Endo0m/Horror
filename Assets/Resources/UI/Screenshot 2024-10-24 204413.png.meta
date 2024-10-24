@@ -1,0 +1,241 @@
+fileFormatVersion: 2
+guid: 2d5e1862fee104b438b2cf18840290d9
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Screenshot 2024-10-24 204413_26
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 89
+        width: 320
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d2673c49b95c4a48b5f13472380f159
+      internalID: 631720982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Screenshot 2024-10-24 204413_27
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 88
+        width: 307
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa770ede96ae50b4cafc0c763add2b69
+      internalID: -1633824988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Screenshot 2024-10-24 204413_28
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 17
+        width: 320
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c47fbdaa858c3854a9679ed8c68f79ad
+      internalID: 1788123450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Screenshot 2024-10-24 204413_29
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 14
+        width: 313
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 364210175ec78604ca4a72365bf1dbf7
+      internalID: -1186100501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 2d6297550299e03468a766cdd552c2e8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Screenshot 2024-10-24 204413_0: -1512932688
+      Screenshot 2024-10-24 204413_1: -658809103
+      Screenshot 2024-10-24 204413_10: 649635726
+      Screenshot 2024-10-24 204413_11: -631895533
+      Screenshot 2024-10-24 204413_12: 317676328
+      Screenshot 2024-10-24 204413_13: 1330976497
+      Screenshot 2024-10-24 204413_14: 469292598
+      Screenshot 2024-10-24 204413_15: 237971947
+      Screenshot 2024-10-24 204413_16: 1219816426
+      Screenshot 2024-10-24 204413_17: 1832254150
+      Screenshot 2024-10-24 204413_18: 888693517
+      Screenshot 2024-10-24 204413_19: 1267269181
+      Screenshot 2024-10-24 204413_2: 1336189514
+      Screenshot 2024-10-24 204413_20: -1236094596
+      Screenshot 2024-10-24 204413_21: 2090252543
+      Screenshot 2024-10-24 204413_22: -334195525
+      Screenshot 2024-10-24 204413_23: 1139298314
+      Screenshot 2024-10-24 204413_24: 656903363
+      Screenshot 2024-10-24 204413_25: -340017573
+      Screenshot 2024-10-24 204413_26: 631720982
+      Screenshot 2024-10-24 204413_27: -1633824988
+      Screenshot 2024-10-24 204413_28: 1788123450
+      Screenshot 2024-10-24 204413_29: -1186100501
+      Screenshot 2024-10-24 204413_3: -1511649904
+      Screenshot 2024-10-24 204413_4: -1320441225
+      Screenshot 2024-10-24 204413_5: -97157935
+      Screenshot 2024-10-24 204413_6: 2027123981
+      Screenshot 2024-10-24 204413_7: -1146661990
+      Screenshot 2024-10-24 204413_8: -1586683463
+      Screenshot 2024-10-24 204413_9: -1337451764
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
